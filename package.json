@@ -1,0 +1,23 @@
+{
+  "name": "generate-js-docs",
+  "version": "0.0.0",
+  "description": "js doc parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike96Angelo/Generate-JS-Docs.git"
+  },
+  "keywords": [
+    "generate-js-docs",
+    "docs"
+  ],
+  "author": "Michaelangelo Jong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mike96Angelo/Generate-JS-Docs/issues"
+  },
+  "homepage": "https://github.com/Mike96Angelo/Generate-JS-Docs#readme"
+}
